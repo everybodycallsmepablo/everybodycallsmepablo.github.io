@@ -2,3 +2,5 @@ baseURL = 'https://everybodycallsmepablo.com/'
 locale = 'en-us'
 title = 'Everybody Calls Me Pablo'
 theme = 'emacs'
+
+publishDir = "docs"
